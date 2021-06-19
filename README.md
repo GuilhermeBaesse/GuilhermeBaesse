@@ -21,9 +21,7 @@ https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor
 ---
 
 ### Here are some social medias that you can find me:
+### Here are some social medias that you can find me:
 [<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/guilherme-baesse/)
-[<img src = "
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/baesse_00/)
+[<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/baesse_00/)
 [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:baesseguilherme25@gmail.com)
-
-
