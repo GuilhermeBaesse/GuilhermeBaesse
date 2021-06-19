@@ -4,7 +4,8 @@
 **GuilhermeBaesse/GuilhermeBaesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 A little bit about myself:
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
+![image](https://user-images.githubusercontent.com/68205030/122650045-10194580-d107-11eb-8da6-2db14947027f.png)
+
 Here are some ideas to get you
  👨‍💻 I’m currently working on 
 - 🌱 I’m currently learning ...
