@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi there, i'm Guilherme 👋
 
 <!--
 **GuilhermeBaesse/GuilhermeBaesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+A little bit about myself:
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
+Here are some ideas to get you
+ 👨‍💻 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
