@@ -26,5 +26,4 @@ https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor
 [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:baesseguilherme25@gmail.com)
 -----
 
-![Estatisticas do GitHub do Guilherme](https://github-readme-stats.vercel.app/api?username=GuilhermeBaesse&theme=algolia&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBaesse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
